@@ -1,7 +1,6 @@
-# Bombardier with proxy
-Adopted from [github.com/mariotrucco/bombardier/tree/78-add-proxy-support](https://github.com/mariotrucco/bombardier/tree/78-add-proxy-support)
 
 ## Installation
+Adopted from [github.com/mariotrucco/bombardier/tree/78-add-proxy-support](https://github.com/mariotrucco/bombardier/tree/78-add-proxy-support)
 
 1. Download and install Golang [go.dev/dl/#stable](https://go.dev/dl/#stable)
 2. Run in bash/PowerShell:
