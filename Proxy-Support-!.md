@@ -1,0 +1,19 @@
+* Proxy Types:
+
+| Proxy Type | Value |
+|------------|-------|
+| All Proxy  | 0     |
+| HTTP       | 1     |
+| SOCKS4     | 4     |
+| SOCKS5     | 5     |
+| RANDOM     | 6     |
+
+---
+
+* Layer4 Methods Working With Proxies:
+
+| Proxy Type |  MINECRAFT | MEM | RDP | NTP | TCP | ARD | VSE | SYN | UDP | CHAR | DNS |
+|------------|----------- |-----|-----|-----|-----|-----|-----|-----|-----|------|-----|
+| HTTP       |     ✅    | ❌  | ❌  | ❌  | ✅ | ❌  | ❌ | ❌  | ❌  | ❌  | ❌  |
+| SOCKS4     |     ✅    | ❌  | ❌  | ❌  | ✅ | ❌  | ❌ | ❌  | ❌  | ❌  | ❌  |
+| SOCKS5     |     ✅    | ❌  | ❌  | ❌  | ✅ | ❌  | ❌ | ❌  | ❌  | ❌  | ❌  |
