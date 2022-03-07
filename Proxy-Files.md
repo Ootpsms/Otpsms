@@ -11,7 +11,7 @@
 
 ***
 
-## Example Formats
+## Example Format
 ```java
 socks5://1.1.1.1:20001
 socks4://1.1.1.1:46527
