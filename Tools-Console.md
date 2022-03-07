@@ -1,11 +1,11 @@
 ![Picture](https://cdn.discordapp.com/attachments/909717830461698078/950204281468899368/unknown.png)
 
-# Command Line:
+# Command Line
 ```shell script
 python3 start.py tools
 ```
 ---
-# Tools List:
+# Tools List
 
 | Name  | About                                                   |
 |-------|---------------------------------------------------------|
@@ -19,7 +19,7 @@ python3 start.py tools
 
 ---
 
-# Other Commands:
+# Other Commands
 
 | Name  | About                                                   |
 |-------|---------------------------------------------------------|
