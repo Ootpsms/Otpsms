@@ -1,4 +1,6 @@
 
+Proxy Type List: [Click Here](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Support-!)
+
 # Example Proxy File:
 ![proxy list](https://media.discordapp.net/attachments/909717830461698078/950199004799586324/unknown.png?width=517&height=157)
 
