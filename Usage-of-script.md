@@ -3,7 +3,7 @@
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
   - 3: Proxy Version ([Proxy Usage](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Support-!))
-  - 5: Proxy File ([Proxy File Format](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Files-Format))
+  - 5: Proxy File ([Proxy File Format](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Files))
   - 4: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
   - 5: RPC (Requests pre connection)
   - 6: Duration (Time to finish attack in seconds)
@@ -22,7 +22,7 @@
   - 3: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
   - 4: Duration (Time to finish attack in seconds)
   - 5: Proxy Version ([Proxy Usage](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Support-!))
-  - 6: Proxy File ([Proxy File Format](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Files-Format))
+  - 6: Proxy File ([Proxy File Format](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Files))
   - 7: Debug Mode (Optional)
 
 * Layer4 Amplification:
