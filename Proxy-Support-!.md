@@ -1,4 +1,4 @@
-* Proxy Types:
+# Proxy Types
 
 | Proxy Type | Value |
 |------------|-------|
@@ -10,7 +10,7 @@
 
 ---
 
-* Layer4 Methods Working With Proxies:
+# Layer4 Methods Working With Proxies:
 
 | Proxy Type |  MINECRAFT|  MCBOT| MEM | RDP | NTP | TCP | ARD | VSE | SYN | UDP | CHAR | DNS |
 |------------|-----------|-------|-----|-----|-----|-----|-----|-----|-----|------|-----|-----|
@@ -22,7 +22,7 @@
 ***
 
 
-* Layer7 Methods Working With Proxies:
+# Layer7 Methods Working With Proxies:
 
 | Proxy Type | COOKIE | BYPASS | OVH | DGB | STRESS | DOWNLOADER | BOMB | NULL | AVB | GET |
 |------------|--------|--------|-----|-----|--------|------------|------|------|-----|-----|
