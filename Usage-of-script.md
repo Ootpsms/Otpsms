@@ -30,7 +30,7 @@
   - 2: Target URL or IP Address
   - 3: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
   - 4: Duration (Time to finish attack in seconds)
-  - 5: Reflectors File ([Reflectors File](https://github.com/MHProDev/MHDDoS/wiki/Reflectors-file-usage))
+  - 5: Reflectors File ([Reflectors File](https://github.com/MHProDev/MHDDoS/wiki/Amplification-ddos-attack))
   - 6: Debug Mode (Optional)
 
 
