@@ -1,6 +1,6 @@
 ## Parameters
 * Layer7:
-  python3 start.py <1=method> <2=url> <3=socks_type> <4=threads> <5=proxylist> <6=rpc> <7=duration> <8=debug=optional>
+   > python3 start.py <1=method> <2=url> <3=socks_type> <4=threads> <5=proxylist> <6=rpc> <7=duration> <8=debug=optional>
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
   - 3: Proxy Version ([Proxy Usage](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Support-!))
@@ -11,7 +11,7 @@
   - 7: Debug Mode (Optional)
 
 * Layer4 Noraml:
-  python3 start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=debug=optional>
+  > python3 start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=debug=optional>
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
   - 3: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
@@ -19,7 +19,7 @@
   - 5: Debug Mode (Optional - [What is debug mode](https://github.com/MHProDev/MHDDoS/wiki/what-is-debug-mode))
 
 * Layer4 Proxied:
-  python3 start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=socks_type> <6=proxylist> <7=debug=optional>
+  > python3 start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=socks_type> <6=proxylist> <7=debug=optional>
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
   - 3: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
@@ -29,7 +29,7 @@
   - 7: Debug Mode (Optional)
 
 * Layer4 Amplification:
-  python3 MHDDoS/start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=refelector file> <6=debug=optional>
+  > python3 MHDDoS/start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=refelector file> <6=debug=optional>
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
   - 3: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
