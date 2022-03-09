@@ -9,13 +9,20 @@
 | RANDOM     | 6     |
 
 
+
 # Layer4 Methods Working With Proxies
 
-| Proxy Type |  MINECRAFT|  MCBOT| MEM | RDP | NTP | TCP | ARD | VSE | SYN | UDP | CHAR | DNS |
-|------------|-----------|-------|-----|-----|-----|-----|-----|-----|-----|------|-----|-----|
-| HTTP       |     ❌    | ❌    | ❌  | ❌  | ❌ | ❌  | ❌ | ❌  | ❌  | ❌  | ❌  | ❌ |
-| SOCKS4     |     ✅    | ✅    | ❌  | ❌  | ❌ | ✅  | ❌ | ❌  | ❌  | ❌  | ❌  | ❌ |
-| SOCKS5     |     ✅    | ✅    | ❌  | ❌  | ❌ | ✅  | ❌ | ❌  | ❌  | ❌  | ❌  | ❌ |
+| Proxy Type |  MINECRAFT| MCBOT | MEM | RDP | NTP | TCP | ARD | VSE | SYN | UDP | CHAR |
+|------------|-----------|-------|-----|-----|-----|-----|-----|-----|-----|------|-----|
+| HTTP       |     ❌    | ❌   | ❌  | ❌  | ❌ | ❌  | ❌ | ❌  | ❌  | ❌  | ❌  |
+| SOCKS4     |     ✅    | ✅   | ❌  | ❌  | ❌ | ✅  | ❌ | ❌  | ❌  | ❌  | ❌  |
+| SOCKS5     |     ✅    | ✅   | ❌  | ❌  | ❌ | ✅  | ❌ | ❌  | ❌  | ❌  | ❌  |
+
+| Proxy Type | CONNECTION | CPS | DNS |
+|------------|------------|-----|-----|
+| HTTP       |     ❌     | ❌ | ❌  |
+| SOCKS4     |     ✅     | ✅ | ❌  |
+| SOCKS5     |     ✅     | ✅ | ❌  |
 
 
 ***
