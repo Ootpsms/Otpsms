@@ -8,7 +8,7 @@ Proxy Type List: [Click Here](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Supp
 
 # Format
 ```python
-<Type>://<Host>:<Port>@<User=Optional>:<Password=Optional>
+<Type>://<Host>:<Port>:<User=Optional>:<Password=Optional>
 ```
 
 ***
