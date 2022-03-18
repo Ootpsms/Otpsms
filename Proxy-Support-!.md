@@ -33,7 +33,7 @@
 | Proxy Type | COOKIE | BYPASS | OVH | DGB | STRESS | DOWNLOADER | BOMB | NULL | AVB | GET |
 |------------|--------|--------|-----|-----|--------|------------|------|------|-----|-----|
 | HTTP       |   ✅   | ✅    | ✅  | ✅  |   ✅  |     ✅     | ✅  |  ✅  | ✅  | ✅ |
-| SOCKS4     |   ✅   | ✅    | ✅  | ✅  |   ✅  |     ✅     | ✅  |  ✅  | ✅  | ✅ | 
+| SOCKS4     |   ✅   | ✅    | ✅  | ✅  |   ✅  |     ✅     | ❌  |  ✅  | ✅  | ✅ | 
 | SOCKS5     |   ✅   | ✅    | ✅  | ✅  |   ✅  |     ✅     | ✅  |  ✅  | ✅  | ✅ |
 
 | Proxy Type | CFB | POST| EVEN | DYN | GSB | XMLRPC | SLOW | BOT | PPS | CFBUAM | APACHE |
