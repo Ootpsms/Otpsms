@@ -1,8 +1,6 @@
 Welcome to the **MHDDoS** _wiki_!
 
 
-***
-
 ### Pages:
   * [Installation](https://github.com/MHProDev/MHDDoS/wiki/installation)
   * [Script Usage and examples](https://github.com/MHProDev/MHDDoS/wiki/Usage-of-script)
