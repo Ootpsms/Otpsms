@@ -10,7 +10,7 @@ pip install -r requirements.txt
 # DockerFile
 
 ```shell script
-docker build -t "MHDDoS:Dockerfile"
+$ docker pull ghcr.io/mhprodev/mhddos:latest
 ````
 
 ***
