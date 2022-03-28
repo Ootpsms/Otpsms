@@ -6,3 +6,13 @@
 **Note: _This Methods need spoofable servers!_**
 
 A reflection amplification attack is a technique that allows attackers to both magnify the amount of malicious traffic they can generate and obscure the sources of the attack traffic. This type of distributed denial-of-service (DDoS) attack overwhelms the target, causing disruption or outage of systems and services.
+
+
+# Scanning
+
+## zmap
+```
+apt install zmap
+zmap -p53 --output-filter='sport=53' -Mudp --probe-args=file:dns.pkt -f "saddr udp_pkt_size" -o dns.txt
+```
+C Scripts: [Click Here](https://github.com/Phenomite/AMP-Research)
