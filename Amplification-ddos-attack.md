@@ -8,8 +8,10 @@
 A reflection amplification attack is a technique that allows attackers to both magnify the amount of malicious traffic they can generate and obscure the sources of the attack traffic. This type of distributed denial-of-service (DDoS) attack overwhelms the target, causing disruption or outage of systems and services.
 
 # Spoof Hostings
-Wiki: https://en.wikipedia.org/wiki/IP_address_spoofing
-Checker: https://github.com/MHProDev/IPHM-Checker
+
+**Wiki**: https://en.wikipedia.org/wiki/IP_address_spoofing
+
+**Checker**: https://github.com/MHProDev/IPHM-Checker
 
 
 # Scanning
