@@ -15,4 +15,4 @@ A reflection amplification attack is a technique that allows attackers to both m
 apt install zmap
 zmap -p53 --output-filter='sport=53' -Mudp --probe-args=file:dns.pkt -f "saddr udp_pkt_size" -o dns.txt
 ```
-C Scripts: [Click Here](https://github.com/Phenomite/AMP-Research)
+Full document in https://github.com/Phenomite/AMP-Research
