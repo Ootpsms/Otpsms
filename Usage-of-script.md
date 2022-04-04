@@ -5,7 +5,7 @@
   - 2: Target URL or IP Address
   - 3: Proxy Version ([Proxy Usage](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Support-!))
   - 5: Proxy File ([Proxy File Format](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Files))
-  - 4: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
+  - 4: Number of threads to use ([Multi Threading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)))
   - 5: RPC (Requests pre connection)
   - 6: Duration (Time to finish attack in seconds)
   - 7: Debug Mode (Optional)
@@ -14,7 +14,7 @@
   > python3 start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=debug=optional>
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
-  - 3: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
+  - 3: Number of threads to use ([Multi Threading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)))
   - 4: Duration (Time to finish attack in seconds)
   - 5: Debug Mode (Optional - [What is debug mode](https://github.com/MHProDev/MHDDoS/wiki/what-is-debug-mode))
 
@@ -32,7 +32,7 @@
   > python3 MHDDoS/start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=refelector file> <6=debug=optional>
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
-  - 3: Number of threads to use ([Multi Threading](https://github.com/MHProDev/MHDDoS/wiki/Multithreading))
+  - 3: Number of threads to use ([Multi Threading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)))
   - 4: Duration (Time to finish attack in seconds)
   - 5: Reflectors File ([Reflectors File](https://github.com/MHProDev/MHDDoS/wiki/Amplification-ddos-attack))
   - 6: Debug Mode (Optional)
