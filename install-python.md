@@ -23,10 +23,10 @@ yum install -y python3
 ```
 
 ## MacOS Installation
-### official installer
+* official installer
 You can install python on official [Python website](https://www.python.org/downloads/macos/)
 
-### shell installation
+* shell installation
 1. press CMD + Space
 2. Type terminal
 3. Press Enter
