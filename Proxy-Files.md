@@ -17,5 +17,6 @@ Proxy Type List: [Click Here](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Supp
 ```java
 socks5://1.1.1.1:20001
 socks4://1.1.1.1:46527
+http://1.1.1.1:443:username:password
 http://1.1.1.1:80
 ```
