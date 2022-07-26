@@ -4,11 +4,11 @@
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
   - 3: Proxy Version ([Proxy Usage](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Support-!))
-  - 5: Proxy File ([Proxy File Format](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Files))
-  - 4: Number of threads to use ([Multi Threading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)))
-  - 5: RPC (Requests pre connection)
-  - 6: Duration (Time to finish attack in seconds)
-  - 7: Debug Mode (Optional)
+  - 4: Proxy File ([Proxy File Format](https://github.com/MHProDev/MHDDoS/wiki/Proxy-Files))
+  - 5: Number of threads to use ([Multi Threading](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)))
+  - 6: RPC (Requests pre connection)
+  - 7: Duration (Time to finish attack in seconds)
+  - 8: Debug Mode (Optional)
 
 * Layer4 Noraml:
   > python3 start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=debug=optional>
