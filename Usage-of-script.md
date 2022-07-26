@@ -10,7 +10,7 @@
   - 7: Duration (Time to finish attack in seconds)
   - 8: Debug Mode (Optional)
 
-* Layer4 Noraml:
+* Layer4 Normal:
   > python3 start.py <1=method> <2=ip:port> <3=threads> <4=duration> <5=debug=optional>
   - 1: Method (type of attack)
   - 2: Target URL or IP Address
